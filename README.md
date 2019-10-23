@@ -1,2 +1,2 @@
 # gitHubTest
- Git Hub Test For inclass assignment
+ Inclass Assignment for GitHub
